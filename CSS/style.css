@@ -60,14 +60,43 @@ font-size: 12px;
     padding-top: 20%;
     text-align: center; 
 }
-   /* .iconbars {
-background-color: white;
-color: black;
-border-radius:40px;
-width: 50px;
-padding-left: 50px; */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    color: black;
+}
+.facebook {
+    text-align: center;
 
- /* } */
+}
+
+
+
+.button:hover {
+    color: rgb(248, 85, 10);
+}
+
+
+.fa-facebook {
+    background-color: white;
+}
+
+.fa-facebook:hover {
+    color: rgb(11, 30, 241);
+}
+
+.fa-instagram {
+    background-color: rgb(253, 253, 253);
+
+}
+
+.fa-instagram:hover {
+    color: red;
+}
 
 
 .Rest{
