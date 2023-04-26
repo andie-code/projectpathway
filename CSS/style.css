@@ -1,0 +1,78 @@
+body {
+    background-color: black;
+}
+
+.head {
+    font-size: 30px;
+    padding-left: 8%;
+    color: white;
+}
+
+.amen {
+    color: rgb(12, 91, 122);
+    padding-left: 40px; 
+}
+.header {
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.melin {
+    color: rgb(208, 204, 204);
+    padding-left: 40px;
+    padding-bottom:30px  
+}
+
+.mint {
+    color:rgb(12, 91, 122) ; 
+    float: right; 
+    margin-right: 10%;
+}
+.pent{
+    color: white;
+    font-size: 50px;
+}
+.img{
+    padding-left: 10px;
+}
+.item {
+color: green;
+font-size: 12px;
+}
+.with {
+    color: white;
+    font-size: 20px;
+}
+
+   .button button{
+    background-color: rgb(12, 91, 122);
+    padding-right: 20px;
+    margin-left: 10px;
+    border-radius: 40px;
+    height: 50px;
+    font-size: 25px;
+   } 
+
+.adore p{
+    color: white; 
+    padding-top: 20%;
+    text-align: center; 
+}
+   /* .iconbars {
+background-color: white;
+color: black;
+border-radius:40px;
+width: 50px;
+padding-left: 50px; */
+
+ /* } */
+
+
+.Rest{
+    color: white;
+    background-color: rgb(12, 91, 122);
+    text-align: center;
+    
+}
